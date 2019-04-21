@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328633337515",
+    "firebase_url": "https://rmscomment.firebaseio.com",
+    "project_id": "rmscomment",
+    "storage_bucket": "rmscomment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328633337515:android:59c5de86a4e626f1",
+        "android_client_info": {
+          "package_name": "shubham.sts.com.rmscomment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328633337515-77jk1h8ftcho2eas4pjnulgmvtjlmgk1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "shubham.sts.com.rmscomment",
+            "certificate_hash": "d4af021bab8a7732108d0986cd2ac23024ece43b"
+          }
+        },
+        {
+          "client_id": "328633337515-trbilcald2l5cmrnkt5gqotcc3did4o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNFrrD_sbMshJ5Vdgr4GHOAm4JCe2Kk34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328633337515-trbilcald2l5cmrnkt5gqotcc3did4o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
